@@ -1,0 +1,25 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+			background-image: url(15.jpg);
+             background: block;
+             background-size: cover;
+		}
+h1{
+	font-size: 50px;
+	color:black;
+	margin-top: 30px;
+	margin-bottom: 60px;
+}
+.btn{
+	width: 20%;
+	float: left;
+	margin:0px;
+	margin-left: 0px;
+
+}
+
